@@ -1,0 +1,27 @@
+{
+  "name": "chess-state-example",
+  "version": "0.0.1",
+  "description": "A small example of how to use the ChessState library from npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanTan/ChessStateExample.git"
+  },
+  "keywords": [
+    "ChessState"
+  ],
+  "author": "NathanTan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanTan/ChessStateExample/issues"
+  },
+  "homepage": "https://github.com/NathanTan/ChessStateExample#readme",
+  "dependencies": {
+    "chessstate": "0.0.12",
+    "require": "^2.4.20"
+  }
+}
