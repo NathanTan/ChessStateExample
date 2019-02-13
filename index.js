@@ -1,5 +1,4 @@
-var assert = require("assert")
-var ChessState = require("chessstate")
+let ChessState = require("chessstate")
 
 // Initalize a new game
 let game = new ChessState.ChessState()
