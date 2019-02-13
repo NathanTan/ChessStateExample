@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/NathanTan/ChessStateExample#readme",
   "dependencies": {
-    "chessstate": "0.0.12",
-    "require": "^2.4.20"
+    "chessstate": "0.0.12"
   }
 }
